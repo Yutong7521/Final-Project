@@ -1,0 +1,11 @@
+Problem: 
+In this semestem, students have to take courses online and remotely. Thus it is difficult for them to find teammates to do collaborative assignments. I want to make a web application that could help students in Teachers College find teammates effectively and time-saving. 
+
+Solution:
+	I have drawn the demo picture of my web application and attached them below： 
+	In this application, users could build their profile and set some tags of themselves or their efforts in doing collaborative assignments. For example, like “HTML,” “CSS” of “JavaSprict”; also, users could select which courses in TC that they are taking and which teams or groups they are joined by now.          
+
+ 
+Users could browse the application to contact the other users whom they are interested in and send them messages. Also, users could use the add and remove buttons to add or remove the tags. And this application will update the date and time when user refresh the page.
+
+	To achieve the functions that I have mentioned above, firstly I will build the app’s apparence in HTML and CSS; then I will creat the “onclik” function named “Add” and “Remove” in JavaSprict, when users input some words in the box and click the “Add” button, the words will submit and become a new tag. When the user clicks the “Remove” button, the new tag will be removed. What is more, I have made the button “Contact”, once the users click the button, they will start a conversation like the picture below:
